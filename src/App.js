@@ -1,20 +1,27 @@
+
 import React from "react";
 import About from "./components/About";
 import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
-import Testimonials from "./components/Testimonials";
+import Trainings from "./components/Trainings";
+import SocialFollow from "./components/SocialFollow";
 import Designs from "./components/Designs";
+import Footer from "./components/Footer";
+import "./App.css";
+ 
 
 export default function App() {
   return (
+    
     <main className="text-gray-400 bg-gray-900 body-font">
       <Navbar />
       <About />
       <Projects />
       <Designs />
-      <Testimonials />
+      <Trainings />
       <Contact />
+      <SocialFollow/>
     </main>
   );
 }

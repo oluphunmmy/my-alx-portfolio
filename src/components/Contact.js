@@ -38,6 +38,7 @@ export default function Contact() {
                 PHONE
               </h2>
               <p className="leading-relaxed">+2347068343774, +2348161753131</p>
+              <a href="https://www.facebook.com/goldenpebblescs" class="facebook">facebook</a>  
             </div>
           </div>
         </div>

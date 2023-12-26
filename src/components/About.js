@@ -10,8 +10,8 @@ export default function About() {
             <br className="hidden lg:inline-block" />We love to create amazing designs
           </h1>
           <p className="mb-8 leading-relaxed">
-          Golden Pebbles Creative Solution is a tailoring house that specializes in personal and corporate wears and uniforms. 
-          We also train individuals on garment marking.
+          Our fashion business was borne out of the passion for style and class. We desire to boost people's confidence and self esteem by ensuring they look good and impressive.
+ Our major focus is on bespoke wears for both formal and informal outings as well as training of young fashion designers.
           </p>
           <div className="flex justify-center">
             <a
@@ -30,7 +30,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./coding.svg"
+            src="./hero.png"
           />
         </div>
       </div>
