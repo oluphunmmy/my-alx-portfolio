@@ -4,7 +4,7 @@ import {
     faFacebook,
   } from "@fortawesome/free-brands-svg-icons";
 
-  <div class="social-container">
+  <div class="social-container">()
       <h3>Social Follow</h3>
       <a href="https://www.facebook.com/goldenpebblescs/"
         className="facebook social">

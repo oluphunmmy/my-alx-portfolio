@@ -29,9 +29,14 @@
 .footer {
     background-color: green;
     border-top: 2px solid red;
-    position: fixed;
+    position:sticky;
     width: 100%;
     bottom: 0;
     color: white;
-    font-size: 25px;
+    font-size: 18px;
+}
+.footer p {
+    text-align: center;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }

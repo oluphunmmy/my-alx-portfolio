@@ -26,7 +26,7 @@ export const projects = [
     title: "Jumpsuit design",
     subtitle: "classic",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "LAn off-shoulder jumpsuit with offshoulder sleeve",
     image: "./jumpsuits.jpg",
   },
   {
@@ -59,7 +59,7 @@ export const projects = [
   },
 ];
 
-export const testimonials = [
+export const trainings = [
   {
     quote:
       "we source materials and accessories according to a client's request.",
