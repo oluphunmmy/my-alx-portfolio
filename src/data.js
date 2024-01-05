@@ -34,7 +34,7 @@ export const projects = [
     subtitle: "classic",
     description:
       "This is a two-layered detachable gathered ruffle gown with puffy sleeve",
-    image: "./2piecelayergown.jpg",
+    image: "./2-piecelayergown.jpg",
   },
   {
     title: "Shirt and trouser",

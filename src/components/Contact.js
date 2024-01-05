@@ -1,4 +1,7 @@
 import React from "react";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faXTwitter } from '@fortawesome/free-brands-svg-icons'
+import { faFacebook } from '@fortawesome/free-brands-svg-icons'
 
 export default function Contact() {
   return (
@@ -26,6 +29,14 @@ export default function Contact() {
                 Balogun Bus-Stop, <br />
                 Iju-Ishaga, Lagos State, Nigeria
                 </p>
+
+                <div>
+                  <h5 className="title-font font-semibold text-white tracking-widest text-xs mt-4">SOCIAL FOLLOW</h5>
+                  <ul className="flex">
+                    <li className="mr-2"><a href="https:twitter.com" target="_blank"><FontAwesomeIcon icon={faXTwitter} /></a></li>
+                    <li className="mr-2"><a href="https://www.facebook.com/goldenpebblescs" target="_blank"><FontAwesomeIcon icon={faFacebook} /> </a></li>
+                  </ul>
+                </div>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
