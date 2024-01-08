@@ -33,7 +33,7 @@ export default function Contact() {
                 <div>
                   <h5 className="title-font font-semibold text-white tracking-widest text-xs mt-4">SOCIAL FOLLOW</h5>
                   <ul className="flex">
-                    <li className="mr-2"><a href="https:twitter.com" target="_blank"><FontAwesomeIcon icon={faXTwitter} /></a></li>
+                    <li className="mr-2"><a href="https://twitter.com/engrOlufunmmy" target="_blank"><FontAwesomeIcon icon={faXTwitter} /></a></li>
                     <li className="mr-2"><a href="https://www.facebook.com/goldenpebblescs" target="_blank"><FontAwesomeIcon icon={faFacebook} /> </a></li>
                   </ul>
                 </div>
@@ -49,7 +49,6 @@ export default function Contact() {
                 PHONE
               </h2>
               <p className="leading-relaxed">+2347068343774, +2348161753131</p>
-              <a href="https://www.facebook.com/goldenpebblescs" class="facebook">facebook</a>  
             </div>
           </div>
         </div>

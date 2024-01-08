@@ -1,6 +1,6 @@
 
 import React from "react";
-import About from "./components/About";
+import Index from "./components/Index";
 import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
@@ -16,7 +16,7 @@ export default function App() {
     
     <main className="text-gray-400 bg-gray-900 body-font">
       <Navbar />
-      <About />
+      <Index />
       <Projects />
       <Designs />
       <Trainings />
