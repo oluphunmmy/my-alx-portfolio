@@ -63,17 +63,36 @@ export const trainings = [
   {
     quote:
       "we source materials and accessories according to a client's request.",
-    image: "./training2.png",
+    image: "./training1.png",
   },
   {
     quote:
       "we design and style materials.",
-    image: "./training3.png",
+    image: "./training2.png",
     
-  },{
+  },
+  {
     quote:
       "we train and handle day to day runnings and online presence.",
-    image: "./training3.png",
+    image: "./training4.jpg",
+    
+  },
+  {
+    quote:
+      "we train and handle day to day runnings and online presence.",
+    image: "./training5.jpg",
+    
+  },
+  {
+    quote:
+      "we train and handle day to day runnings and online presence.",
+    image: "./training6.jpg",
+    
+  },
+  {
+    quote:
+      "we train and handle day to day runnings and online presence.",
+    image: "./training7.jpg",
     
   },
 ];
@@ -86,4 +105,5 @@ export const designs = [
   "Zigzag Stiches",
   "Button Holes",
   "Trainings",
+  "Eye-lets services",
 ];
