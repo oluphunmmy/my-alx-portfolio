@@ -27,7 +27,7 @@ export default function Contact() {
               <p className="mt-1">
                 5, Adepeju Aina Street,
                 Balogun Bus-Stop, <br />
-                Iju-Ishaga, Lagos State, Nigeria
+                Iju-Ishaga, Lagos State, Nigeria.
                 </p>
 
                 <div>
