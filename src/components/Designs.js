@@ -4,7 +4,7 @@ import { designs } from "../data";
 
 export default function Designs() {
   return (
-    <section id="skills">
+    <section>
       <div className="container px-5 py-10 mx-auto">
         <div className="text-center mb-20">
           <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">
@@ -28,6 +28,7 @@ export default function Designs() {
             </div>
           ))}
         </div>
+        <div  id="training" />
       </div>
     </section>
   );
